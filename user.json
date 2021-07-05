@@ -1,0 +1,12 @@
+{
+    "id": "2412",
+    "parent_exercise_id": "2404",
+    "name": " Question 4",
+    "slug": "dictionary__OutputOfCode/question4",
+    "sequence_num": 8004,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Niche diye gye code snippet ki output kya hoga? \"},{\"type\":\"python\",\"value\":{\"code\":\"Student = {}\\nAge = {}\\nDetails = {}\\nStudent['name'] = \\\"bikki\\\"\\nAge['student_age'] = 14\\nDetails['Student'] = Student\\nDetails['Age'] = Age\\n\\nprint (len(Details[\\\"Student\\\"])) \\n\",\"testCases\":[]}}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question4.md"
+}
